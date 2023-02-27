@@ -1,11 +1,28 @@
-# Belajar Boostrap 5x, Desain Halaman Produk
+# Belajar Bootstrap 5x, Desain Halaman Produk
 
-Belajar Membuat Halaman Produk
+Belajar Mendesain Halaman Produk untuk berbagai jenis website
 
-Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-onlline-2023-day09/
+## Demo hasil belajar 
 
-## Screenshot Hasil Belajar 
+### DEMO INDEX 1
 
-Berikut ini adalah hasil belajar kali ini
+DESAIN PRODUK YASWARAU
 
-coming soon....
+Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-online-2023-day09/index.html
+
+### DEMO INDEX 2
+
+DESAIN PRODUK AT STORE
+
+Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-online-2023-day09/index2.html
+
+## Screenshot hasil belajar
+
+Berikut ini adalah screenshot hasil belajar kali ini
+
+SCREENSHOT INDEX 1
+<img src="__screenshots/1.png">
+
+SCREENSHOT INDEX 2
+
+<img src="__screenshots/2.png">
