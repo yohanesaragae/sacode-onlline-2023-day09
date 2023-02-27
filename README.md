@@ -8,13 +8,13 @@ Belajar Mendesain Halaman Produk untuk berbagai jenis website
 
 DESAIN PRODUK YASWARAU
 
-Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-online-2023-day09/index.html
+Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-onlline-2023-day09/index
 
 ### DEMO INDEX 2
 
 DESAIN PRODUK AT STORE
 
-Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-online-2023-day09/index2.html
+Silahkan lihat demo hasil belajar di sini : https://yohanesaragae.github.io/sacode-onlline-2023-day09/index2
 
 ## Screenshot hasil belajar
 
